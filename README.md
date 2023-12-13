@@ -7,20 +7,7 @@ Traffic simulator implemented in C++
 
 credits Project template to : <https://github.com/lutrarutra/SFML-Project-Template>
 
-<img src="assets/200mm_LED_traffic_light.jpg" width="50%" align="right">
 
-For this project, I am considering the use of the 200mm LED traffic light. The specifications considered here are based on the information I could find during my research on various market models.
-
-| Technical Specifications         | 200mm                                |
-|----------------------------------|--------------------------------------|
-| Shape                            | 200 mm (8”) Cobweb Cover             |
-| Led’s                            | High Brightness LEDs with Integrated Optics IP 65 |
-| Protection Level                 |                                      |
-| Total Harmonic Distortion        | Total Harmonic Distortion <20%        |
-| Operating Temperature            | Operating Temperature -30°C to +60°C |
-| Angle                            | Angle: Avg. ≥30° Down ≥30°            |
-| Operating Voltage Range          | Operating Voltage Range 100-277 Vac  |
-| Insulation Resistance            | Insulation Resistance ≥2M            |
-| MTBF                             | MTBF: +100,000 hours                 |
-| Housing Material Warranty        | Housing Material: Poly Carbonate (PMMA) |
-|                                  | Warranty:                             |
+| Technical Specifications         | 200mm                                | Image                               |
+|----------------------------------|--------------------------------------|-------------------------------------|
+| The LED lamp beads are UL Listed, each LED.<br> The LED life span up to 100000 hours. <br> Red LED with 4000-5000mcd brightness,<br> Yellow LED with 4000- 5000mcd brightness, Green LED with 7000- 9500mcd brightness.<br> LED light-emitting diode is a light source, with stable performance and ideal display effect. <br> It's waterproof: made of Durable black housing to ensure durability and a multilayer seal protects lens from dust and water seal to keep protected from water in harsh weather environments. The waterproof grade is IP65. It's made of clear lens. High penetrability, Fire resistance, Anti-UV.<br> The modules diameter about 299 mm (12 inch). Operating voltage of DC9-36V or 85V-265VA                           | 200 mm (8”) Cobweb Cover             | <img src="assets/200mm_LED_traffic_light.jpg" width="100%" >
