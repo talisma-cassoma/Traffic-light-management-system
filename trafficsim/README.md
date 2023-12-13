@@ -42,5 +42,5 @@ Refer to <https://github.com/lutrarutra/SFML-Project-Template>
 
 * ImGui - Library which allows you to use ImGui with SFML
   - https://github.com/eliasdaler/imgui-sfml
- 
- 
+
+  
