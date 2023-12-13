@@ -7,7 +7,36 @@ Traffic simulator implemented in C++
 
 credits Project template to : <https://github.com/lutrarutra/SFML-Project-Template>
 
+<table>
+  <tr>
+    <th>Technical Specifications</th>
+    <th>Model Name</th>
+    <th>Image</th>
+  </tr>
+  <tr>
+    <td style="font-size: smaller; padding-left: 10px;">
+      <b>1. LED Brightness:</b><br>
+      <p style="padding-left: 20px;">&bull; Red LED: 4000-5000mcd brightness.</p>
+      <p style="padding-left: 20px;">&bull; Yellow LED: 4000-5000mcd brightness.</p>
+      <p style="padding-left: 20px;">&bull; Green LED: 7000-9500mcd brightness.</p>
+      <b>2. LED Features:</b><br>
+      <p style="padding-left: 20px;">- LED is a stable light source with an ideal display effect.</p>
+      <b>3. Waterproof Design:</b><br>
+      <p style="padding-left: 20px;">&bull; Durable black housing ensures longevity.</p>
+      <p style="padding-left: 20px;">&bull; Multilayer seal protects the lens from dust and water.</p>
+      <p style="padding-left: 20px;">&bull; Waterproof grade: IP65.</p>
+      <b>4. Construction:</b><br>
+      <p style="padding-left: 20px;">&bull; Clear lens for high penetrability.</p>
+      <p style="padding-left: 20px;">&bull; Fire-resistant and Anti-UV properties.</p>
+      <b>5. Module Dimensions:</b><br>
+      <p style="padding-left: 20px;">&bull; Diameter: Approximately 299 mm (12 inches).</p>
+      <b>6. Operating Voltage:</b><br>
+      <p style="padding-left: 20px;">&bull; DC9-36V or 85V-265VA.</p>
+    </td>
+    <td style="font-size: smaller;">200 mm LED traffic light</td>
+    <td><img src="assets/200mm_LED_traffic_light.jpg" width="100%"></td>
+  </tr>
+</table>
 
-| Technical Specifications         | 200mm                                | Image                               |
-|----------------------------------|--------------------------------------|-------------------------------------|
-| 2. **LED Brightness:**<br> - Red LED: 4000-5000mcd brightness.<br> - Yellow LED: 4000-5000mcd brightness.<br> - Green LED: 7000-9500mcd brightness.<br>3. **LED Features:**<br>- LED is a stable light source with an ideal display effect.<br>4. **Waterproof Design:**<br>- Durable black housing ensures longevity.<br>- Multilayer seal protects the lens from dust and water.<br>- Waterproof grade: IP65.<br>5. **Construction:**<br>- Clear lens for high penetrability.<br>- Fire-resistant and Anti-UV properties.<br>6. **Module Dimensions:**<br>- Diameter: Approximately 299 mm (12 inches).<br>7. **Operating Voltage:**<br>- DC9-36V or 85V-265VA. | 200 mm (8”) Cobweb Cover             | <img src="assets/200mm_LED_traffic_light.jpg" width="100%" >
+
+
