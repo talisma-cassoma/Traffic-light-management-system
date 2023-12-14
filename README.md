@@ -1,13 +1,9 @@
 # Traffic-light-management-system
-## Traffic Simulator
-
-Traffic simulator implemented in C++
-
-![](https://media.giphy.com/media/ifXVEva4ksUVCz5vRn/giphy.gif)
-
-credits Project template to : <https://github.com/lutrarutra/SFML-Project-Template>
-
-<table>
+this monorepo contains the simalutions of a smart traffics management algoritm for low complexity SDNs
+<p align="center">
+<img src="assets/remote-calibration-and-control-of-smart-traffic-light.svg" width="500px" align="center">
+</p>
+<!-- <table>
   <tr>
     <th>Technical Specifications</th>
     <th>Model Name</th>
@@ -36,6 +32,6 @@ credits Project template to : <https://github.com/lutrarutra/SFML-Project-Templa
     <td style="font-size: smaller;"><b>200 mm LED traffic light</b></td>
     <td><img src="assets/200mm_LED_traffic_light.jpg" width="100%"></td>
   </tr>
-</table>
+</table> -->
 
 
